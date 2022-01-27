@@ -1,0 +1,11 @@
+body {
+    background-color: #ffe8b4;
+}
+section {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    width: 500px;
+    height: 500px;
+    transform: translate(-50%,-50%);
+}
